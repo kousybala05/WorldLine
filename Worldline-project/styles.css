@@ -1,0 +1,10 @@
+.Container{
+    color:grey;
+    /* height: fit-content; */
+    /* width:max-content; */
+    display: flex;
+    align-items: center;
+}
+*{
+    background-color:darkslategrey;
+}
